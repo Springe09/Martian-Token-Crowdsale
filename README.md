@@ -8,4 +8,6 @@ KaseiCoin will be a fungible token that’s ERC-20 compliant. You’ll launch a 
 
 ## Evaluation Evidence
 
+Create the KaseiCoin Token Contract
 
+![picture alt](https://github.com/Springe09/Cryptocurrency-Wallet/blob/main/CryptoWallet.PNG)
