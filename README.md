@@ -25,6 +25,11 @@ KaseiCoin will be a fungible token that’s ERC-20 compliant. You’ll launch a 
 
 ## Deploy and Test the Crowdsale on a Local Blockchain
 
+![picture alt](https://github.com/Springe09/Martian-Token-Crowdsale/blob/main/Evaluation%20Evidence/Deploy1.PNG)
+![picture alt](https://github.com/Springe09/Martian-Token-Crowdsale/blob/main/Evaluation%20Evidence/dEPLOY_2_2.PNG)
+![picture alt](https://github.com/Springe09/Martian-Token-Crowdsale/blob/main/Evaluation%20Evidence/dEPLOY_2_3.PNG)
+
+
 
 
 
